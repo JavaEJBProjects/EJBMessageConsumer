@@ -1,0 +1,4 @@
+rootProject.name = 'EJBMessageConsumer'
+include 'MessageConsumerEJB'
+include 'MessageConsumerWebClient'
+include 'MessageConsumerApp'
